@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davijaf
-- 👀 I’m interested in Data Sicence and Full Stack
+- 👀 I’m interested in Full Stack and Quality Assurance
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me davijose@gmail.com
