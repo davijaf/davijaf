@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davijaf
 - 👀 I’m interested in Full Stack and Quality Assurance
 - 🌱 I’m currently learning C#.NET
-- 💞️ I’m looking to collaborate on Python, SQL, PHP, Javascript, Selenium, SmartBear TestComplete and Java
+- 💞️ I’m looking to collaborate on React, Angular, Python, SQL, PHP, Javascript, Selenium, SmartBear TestComplete and Java
 - 📫 How to reach me davijose@gmail.com
 
 <!---
