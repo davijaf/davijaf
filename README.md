@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#.NET
 - 💞️ I’m looking to collaborate on React, Angular, Python, SQL, PHP, Javascript, Selenium, SmartBear TestComplete and Java
 - 📫 How to reach me davijose@gmail.com
+- 💬 Whatsapp +5562992775804
 
 <!---
 davijaf/davijaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
