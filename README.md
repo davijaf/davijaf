@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davijaf
-- 👀 I’m interested in Full Stack and Quality Assurance
+- 👀 I’m interested in Full Stack and Mobile Development
 - 🌱 I’m currently learning C#.NET
-- 💞️ I’m looking to collaborate on React, Angular, Python, SQL, PHP, Javascript, Selenium, SmartBear TestComplete and Java
+- 💞️ I’m looking to collaborate on React, Angular, Javascript, Typescript, Kotlin and Java
 - 📫 How to reach me davijose@gmail.com
 - 💬 Whatsapp +5562992775804
 
