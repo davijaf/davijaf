@@ -20,10 +20,10 @@ const davi = {
 };
 ```
 
-- 🔭 Currently working on a **Brazilian Federal Government project** with Ionic, Angular & Spring Boot
+- 🔭 Currently working on a **Brazilian Federal Government project** with Java, Ionic, Angular & Spring Boot
 - 🌍 Previously worked remotely for companies in **Portugal** (SISQUAL) and **USA** (FuseProp)
 - 🎓 Pursuing a **PhD in Science and Web Technology** at UTAD, Portugal
-- 💡 Passionate about building performant, user-friendly mobile experiences
+- 💡 Passionate about building performant, user-friendly web and mobile experiences
 - 🌎 Open to **remote opportunities** with international teams
 
 ---
@@ -88,14 +88,14 @@ const davi = {
 - Tech: Ionic, Angular, Spring Boot, Capacitor
 - Agile methodology with CI/CD practices
 
-### 🏢 SISQUAL WFM | Mobile Developer
+### 🏢 SISQUAL WFM | Software Developer
 **Mar 2023 - Oct 2024** | Portugal (Remote)
 
-- Designed and developed cross-platform mobile apps
-- Tech: Angular, TypeScript, Ionic, REST APIs
+- Designed and developed cross-platform web and mobile apps
+- Tech: Java, Angular, TypeScript, Ionic, REST APIs
 - Unit testing and technical documentation
 
-### 🏢 FuseProp | Mobile Developer
+### 🏢 FuseProp | Software Developer
 **Jul 2023 - Aug 2024** | USA (Remote)
 
 - Built high-quality mobile applications with React Native
