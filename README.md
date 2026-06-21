@@ -1,6 +1,6 @@
 # Hi there, I'm Davi José 👋
 
-**Senior Mobile Developer** specializing in **Ionic & Angular** with 7+ years of experience building cross-platform applications.
+**Senior Software Engineer** specializing in **Java, Spring Boot, Ionic & Angular** with 15+ years of experience building cross-platform applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davijaf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davijose@gmail.com)
